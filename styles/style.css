@@ -1,0 +1,40 @@
+html{
+	background-color: black;
+}
+h3{
+	font-family: verdana;
+	color: #241773;
+}
+body{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+table{
+	margin: 0 auto;
+}
+h1{
+	color: #241773;
+}
+#facts{
+	color: #0d98ba;
+}
+#languages{
+	color: #D0B240;
+}
+#title{
+	color: #D0B240;
+}
+#hobbies{
+	color: #0d98ba;
+}
+#subtitle{
+	color: #241773;
+	font-style: italic;
+}
+#caption{
+	color: #0d98ba;
+}
+#footer{
+	text-align: center;
+}

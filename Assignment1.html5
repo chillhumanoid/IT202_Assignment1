@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>assignment 1 html5</title>
+		<link rel="stylesheet" type="text/css" href="styles/style1.css">
+	</head>
+	<body>
+		<header>
+			<h1>Jonathan Thorne</h1>
+			<h2 id = "title">Things</h2>
+			<h2 id = "subtitle">A website by Jonathan Thorne</h2>
+		</header>
+		
+		<main>
+			<section id = "facts">
+				<h3>Quick Facts about Me</h3>
+				<ul>
+					<li>My favorite animal is the panda</li>
+					<li>My favorite sport is football
+						<ul>
+							<li>My favorite team is the Ravens</li>
+							<li>I am a fan of the Giants though</li>
+						</ul></li>
+					<li>I'm a transfer student at NJIT</li>
+					<li>My major is IT
+						<ul>
+							<li>With a specialization in Network Security</li>
+						</ul></li>
+				</ul>
+			</section>
+			<section id = "languages">
+				<h3>Computer Languages I Know</h3>
+				<ol>
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>Java</li>
+					<li>Python</li>
+					<li>Batch(barely)</li>
+				</ol>
+			</section>
+			<section id = "hobbies">
+				<h3>Hobbies?</h3>
+				<p> It's a little hard to say what my hobbies are. I don't really have any.<br />
+					I enjoy watching movies, and tv shows. I enjoy listening to music and  <br />
+					I do that pretty much all the time. Also as a commuter, i've taken back<br />
+					reading as it gives me something to do on the train. I play video games<br />
+					but not a whole lot. I don't really have hobbies though. I also browse <br />
+					the web a lot. My favorite site being <a href="http://www.reddit.com"> reddit</a> because it's a great way to<br />
+					stay up to date on everything. Yea. so that's me. </p>
+			</section>
+		</main>
+		<footer>
+			<img src="pictures/panda.png" alt="Look how cute they are" />
+			<a href = "http://www.baltimoreravens.com">
+			<img src="pictures/bravens_logo.png" alt="Baltimore Ravens Logo" />
+			</a>
+			<br />
+			<a href="https://web.njit.edu/~jgt8/Assignment1/Assignment1.xhtml">Click here for XHTML version</a>
+		</footer>
+	</body>
+</html>
+		

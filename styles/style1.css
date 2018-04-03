@@ -1,0 +1,49 @@
+header{
+	text-align: center;
+}
+html{
+	background-color: black;
+}
+#facts{
+  width: 33%;
+  float: left;
+  margin-bottom: 10px;
+  height: 220px;
+  background-color: #0d98ba;
+  text-align: center;
+  color: #241773;
+}
+#languages{
+	width: 33%;
+	float: left;
+	margin-bottom: 10px;
+	height: 220px;
+	background-color: #241773;
+	text-align: center;
+	color: #D0B240;
+}
+#hobbies{
+	width: 33%;
+	float: left;
+	margin-bottom: 10px;
+	height: 220px;
+	background-color: #0d98ba;
+	text-align: center;
+	color: #241773;
+}
+h1{
+	color: #241773;
+}
+#title{
+	color: #D0B240;
+}
+#subtitle{
+	color: #241773;
+	font-style: italic;
+}
+main{
+	color: #D0B240;
+}
+footer{
+	text-align: center;
+}
